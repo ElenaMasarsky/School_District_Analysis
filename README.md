@@ -19,13 +19,13 @@ The school board has notified us that the students_complete.csv file shows evide
 
 
 * As we can see in math and reading scores data frames only indicators for Thomas High School 9th classes changed for NAN. Everything else remained unchanged.  
-*Before eliminating scores*  
+*Before eliminating scores (math)*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/math_scores_by_grade.png)  
-*After eliminating scores*  
+*After eliminating scores (math)*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/math_scores_by_grade_without_THS_9th_scores.png)  
-*Before eliminating scores*  
+*Before eliminating scores (reading)*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png)  
-*After eliminating scores*  
+*After eliminating scores (reading)*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_without_THS_9th_scores.png)  
 
 * Scores by school spending were affected only to a hundredth of a percent. So we couldn't see any changes at formated spending_summary_df. 
