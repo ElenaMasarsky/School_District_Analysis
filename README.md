@@ -6,26 +6,26 @@ The school board has notified us that the students_complete.csv file shows evide
 
 ## Results:  
 * At the pictures below we can see that eliminating of the math and reading scores for Thomas High School didn't effect much on the district summary.  
-Before eliminating scores  
+*Before eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/district_summary.png)  
-After eliminating scores  
+*After eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/district_summary_without_THS_9th_scores.png)  
 
 * School summary wasn't affected but Thomas High School metadata. As we can see at pictures attached, average math and reading scores were not changed much for Thomas High School, but percentages have changed a lot.  
-Before eliminating scores  
+*Before eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/per_school_summary.png)  
-After eliminating scores  
+*After eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/per_school_summary_without_THS_9th_scores.png)  
 
 
 * As we can see in math and reading scores data frames only indicators for Thomas High School 9th classes changed for NAN. Everything else remained unchanged.  
-Before eliminating scores  
+*Before eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/math_scores_by_grade.png)  
-After eliminating scores  
+*After eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/math_scores_by_grade_without_THS_9th_scores.png)  
-Before eliminating scores  
+*Before eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png)  
-After eliminating scores  
+*After eliminating scores*  
 ![pic](https://github.com/ElenaMasarsky/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_without_THS_9th_scores.png)  
 
 * Scores by school spending were affected only to a hundredth of a percent. So we couldn't see any changes at formated spending_summary_df. 
